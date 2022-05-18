@@ -1,0 +1,13 @@
+{
+    "customizations": {
+        "codespaces": {
+            "repositories": {
+                "bookish-potato/product-trial-client": {
+                    "permissions": {
+                        "contents": "write"
+                    }
+                }
+            }
+        }
+    }
+}
