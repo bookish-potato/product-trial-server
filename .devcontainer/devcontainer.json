@@ -1,6 +1,7 @@
 {
     "customizations": {
         "codespaces": {
+            "postCreateCommand": "bash post-create.sh",
             "repositories": {
                 "bookish-potato/product-trial-client": {
                     "permissions": {
